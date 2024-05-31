@@ -38,10 +38,10 @@ When implementing the Quantum Fourier Transform (QFT) by creating gates from scr
 4. Project Management:
 •	Time Management: Create a project schedule with milestones and deadlines for each phase of the development process, allocating sufficient time for research, implementation, testing, and documentation.
 •	Version Control: Use version control systems like Git to manage code revisions, collaborate with team members (if applicable), and track project changes.
+•	Risk Management: Identify potential risks and challenges associated with the project, such as technical complexities, resource limitations, and schedule constraints, and develop mitigation strategies accordingly.
+•	Communication: Maintain regular communication with stakeholders, project collaborators, and mentors to provide updates on the project progress, discuss issues, and solicit feedback.
 
 ->Using the code:
 This is the pythin code, that can be easily used in the ibm quantum lab.
-•	Risk Management: Identify potential risks and challenges associated with the project, such as technical complexities, resource limitations, and schedule constraints, and develop mitigation strategies accordingly.
-•	Communication: Maintain regular communication with stakeholders, project collaborators, and mentors to provide updates on the project progress, discuss issues, and solicit feedback.
 
 
