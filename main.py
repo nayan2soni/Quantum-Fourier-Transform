@@ -3,7 +3,7 @@ import numpy as np
 from qiskit import QuantumCircuit
 from qiskit_aer import Aer
 
-# Define the single-qubit rotation gate
+# Define the single-qubit rotation gate.
 def single_qubit_rotation(circuit, qubit, angle):
     circuit.u1(angle, qubit)
 
