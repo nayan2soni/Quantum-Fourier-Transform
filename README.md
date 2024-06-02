@@ -11,8 +11,7 @@ In this implementation, we build our own gates for the QFT:
 3. Quantum Fourier Transform Gate: This gate applies the QFT to the entire quantum circuit.
 
 # Requirements
-Python 3.7+
-Qiskit
+Python 3.7+, Qiskit
 
 # Installation
 To install Qiskit, use pip:
