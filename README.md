@@ -15,14 +15,14 @@ Python 3.7+, Qiskit
 
 # Installation
 To install Qiskit, use pip:
-
+```sh
 pip install qiskit
-
+```
 # Running the Code
 To run the QFT implementation, simply execute the script:
-
+```sh
 python qft_custom_gates.py
-
+```
 This will output the measurement outcomes of the simulated quantum circuit.
 
 You can also use IBM Quantum Lab to run this, hassle free.
